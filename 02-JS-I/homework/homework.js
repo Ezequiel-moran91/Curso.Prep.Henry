@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "hola";
+const nuevaString = "hola 2022";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 1;
@@ -33,7 +33,7 @@ function devolverString(str) {
 
 function suma(x, y) {
    return x + y;
-  // "x" e "y" son números
+  // "x" e "y" son números 2022
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
   
